@@ -1,5 +1,12 @@
-const TOKEN_KEY = 'mxg-msm-token'
-const USER_KEY = 'mxg-msm-user'
+/*
+ * @Author: leftlevel
+ * @Date: 2020-08-14 09:50:15
+ * @LastEditors: leftlevel
+ * @LastEditTime: 2021-03-04 12:55:15
+ * @Description: 
+ */
+const TOKEN_KEY = 'mms-token'
+const USER_KEY = 'mms-user'
 
 // 获取 token
 export function getToken() {

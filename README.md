@@ -1,4 +1,4 @@
-# mxg-msm-vuex
+# mms-vuex
 
 ## Project setup
 ```
